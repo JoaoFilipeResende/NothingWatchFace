@@ -9,6 +9,8 @@ A free watch face inspired on the Nothing Phone concept.
 
 <p align="center"> <img src="https://github.com/JoaoFilipeResende/NothingWatchFace/blob/main/images/AOD%20Watch%20Screenshot.png" height="200"> <img src="https://github.com/JoaoFilipeResende/NothingWatchFace/blob/main/images/Normal%20Watch%20Screenshot.png" height="200"></p>
 
+Note: To add weather info, long press the watch face and choose the customize option.
+
 # Installation Guide:
  
 1. Install Watch Face Studio. [Link](https://developer.samsung.com/watch-face-studio/download.html)
